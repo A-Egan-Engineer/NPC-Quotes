@@ -230,7 +230,13 @@ public static class NPC
         new Entity("Mac", "You boys like Mex-ee-co? Yee-haw!"),
         new Entity("Foster", "Am I saying meow? Don't think boy, meow do you know how fast you were going?"),
         new Entity("Officer Smy", "Bear... Bearfucker... Do you need my assistance?"),
-        new Entity("Thorny", "Littering and... littering and... littering and smoking the reefer.")
+        new Entity("Thorny", "Littering and... littering and... littering and smoking the reefer."),
+        new Entity("Malphite", "Rock Solid!"),
+        new Entity("Samuel L. Jackson","I have had it with these motherfing snakes on this motherfing plane!"),
+        new Entity("Homer Simpson", "Kids, you tried your best and you failed miserably. The lesson is, never try,"),
+        new Entity("Tony Stark", "The truth is... I am Iron Man"),
+        new Entity("Jake Peralta", "Cool, cool, cool, cool, cool, no doubt, no doubt, no doubt."),
+
     };
 }
 
